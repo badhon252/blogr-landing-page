@@ -1,0 +1,27 @@
+.header {
+  background-color: rgb(255, 70, 70);
+  color: rgb(255, 255, 255);
+  /* clip-path: circle(73.8% at 63% 38%); */
+}
+/* .header-nav {
+  color: #fff;
+
+} */
+/* .singup,
+.login {
+  color: aliceblue;
+} */
+
+.header-param {
+  text-align: center;
+}
+.header-param h1 {
+  font-size: 50px;
+}
+.header-param p {
+  font-size: 1rem;
+}
+.header-param .h-btn {
+  border-radius: 10%;
+  background-color: #fff;
+}

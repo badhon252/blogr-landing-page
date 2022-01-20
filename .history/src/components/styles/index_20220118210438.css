@@ -1,0 +1,58 @@
+.header {
+  background-color: rgb(255, 70, 70);
+  color: rgb(255, 255, 255);
+  /* clip-path: circle(73.8% at 63% 38%); */
+}
+/* .header-nav {
+  color: #fff;
+
+} */
+/* .singup,
+.login {
+  color: aliceblue;
+} */
+
+.header-param {
+  text-align: center;
+}
+.header-param h1 {
+  font-size: 60px;
+}
+.header-param p {
+  font-size: 1.2rem;
+}
+/* .header-param .h-btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  background: #f5f5f5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+} */
+
+/* Intro ======= */
+.intro-h1 {
+  text-align: center;
+}
+.intro-img {
+  /* max-width: 100%; */
+  margin-top: -180px;
+}
+
+/* facility ========== */
+.fact {
+  margin-top: 80px;
+  background-color: rgb(17, 37, 67);
+  color: white;
+  height: 385px;
+  border-radius: 0px 70px 0px 70px;
+}
+.fact-params {
+  margin-top: 85px;
+}
+.fact-img {
+  margin-top: -75px;
+}
